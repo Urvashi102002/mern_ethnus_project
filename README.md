@@ -1,5 +1,4 @@
-# Checkout Live site
-https://campusdeliveryapp.web.app/
+
 
 # Getting Started with Create React App
 
